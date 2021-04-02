@@ -57,3 +57,6 @@ Shorten the Semantic distance
 - Functional to express relation between input and output
 - Object oriented to encapsulate state with actions
 - Apect oriented to capture repeating aspects
+
+--------------------------------------------------------------------------------------------------------------------------------
+Task 2 and 4 are in this repo on 
